@@ -1,4 +1,4 @@
-```markdown
+
 <!-- 
 PREMIUM MINIMAL RESEARCH-ORIENTED GITHUB PROFILE README
 Aesthetic: Vercel / Linear / Apple / OpenAI / NVIDIA Research
